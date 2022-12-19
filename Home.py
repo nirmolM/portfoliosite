@@ -46,4 +46,4 @@ with col4:
         st.image("images/" + row["image"])
         st.write(f"[Source Code]({row['url']})")
 
-# https://github.com/nirmolM/portfolioapp
+# https://github.com/nirmolM/portfolioappee
